@@ -1,0 +1,6 @@
+{
+  "name": "PyChat Studio",
+  "description": "A Python-backed conversational AI chatbot powered by Gemini with live Python tool execution and exportable Python source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
